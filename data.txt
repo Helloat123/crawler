@@ -1,0 +1,320 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+<link href="css/ksy.css" rel="stylesheet" type="text/css"/>
+<title>2020年拟在浙招生普通高校专业（类）选考科目要求 </title>
+</head>
+<body>
+<div class="box780 clearfix">
+<div class="headimg"></div>
+<div class="l_right">
+<div class="l_right_cnt">
+<br/>
+<div class="r_txt_title"> <span style="COLOR: blue;">2020年拟在浙招生普通高校专业（类）选考科目要求 </span></div>
+<br/>
+<div class="search">
+<div class="subTitle">
+<div style=" float:left;width:50%;">
+				 学校名称：北京大学  </div> <div style=" float:left;width:50%;">学校代码：10001  </div></div>
+<table align="center" bgcolor="#E1E1E1" border="0" cellpadding="3" cellspacing="1" style="margin:0px auto;" width="100%">
+<col width="120px"/>
+<col width="180px"/>
+<col width="280px"/>
+<col width="280px"/>
+<tr align="center" bgcolor="#F6FEF5" valign="middle">
+<th><b>层次</b></th></tr></table></div></div></div></div></body></html>
+<th><b>专业(类)名称</b></th>
+<th><b>选考科目要求</b></th>
+<th><b>类中所含专业</b></th>
+
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">公共管理类</td>
+<td align="left">不提科目要求</td>
+<td align="left">政治学与行政学<br>城市管理<br>行政管理</br></br></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">新闻传播学类</td>
+<td align="left">不提科目要求</td>
+<td align="left">新闻学<br/>广告学<br/>广播电视学<br/>编辑出版学</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">工商管理类</td>
+<td align="left">不提科目要求</td>
+<td align="left">金融学<br/>会计学<br/>市场营销<br/>金融学(金融经济学)</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">经济学类</td>
+<td align="left">不提科目要求</td>
+<td align="left">金融学<br/>经济学<br/>国际经济与贸易<br/>保险学(风险管理与保险学)<br/>财政学<br/>资源与环境经济学</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">考古学</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">工科试验班类</td>
+<td align="left">物理(1门科目考生必须选考方可报考)</td>
+<td align="left">理论与应用力学<br/>工程力学<br/>能源与环境系统工程<br/>航空航天工程<br/>生物医学工程<br/>材料科学与工程</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">葡萄牙语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">越南语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">希伯来语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">乌尔都语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">泰语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">蒙古语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">缅甸语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">印地语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">印度尼西亚语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">梵语巴利语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">菲律宾语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">朝鲜语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">波斯语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">日语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">阿拉伯语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">西班牙语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">法语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">德语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">俄语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">英语</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">物理学类</td>
+<td align="left">物理(1门科目考生必须选考方可报考)</td>
+<td align="left">物理学<br/>大气科学(大气与海洋)</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">数学类</td>
+<td align="left">物理(1门科目考生必须选考方可报考)</td>
+<td align="left">数学与应用数学(数学)<br/>数学与应用数学(概率统计)<br/>数学与应用数学(科学与工程计算)<br/>数学与应用数学(信息科学)<br/>数学与应用数学(金融)</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">天文学</td>
+<td align="left">物理(1门科目考生必须选考方可报考)</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">化学类</td>
+<td align="left">物理,化学(2门科目考生选考其中一门即可报考)</td>
+<td align="left">化学<br/>应用化学<br/>化学生物学<br/>应用化学(材料方向)</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">环境科学与工程类</td>
+<td align="left">物理,化学(2门科目考生选考其中一门即可报考)</td>
+<td align="left">环境科学<br/>环境工程<br/>环境科学(环境管理)</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">环境科学(环境\生态\地理与资源环境)</td>
+<td align="left">物理,化学(2门科目考生选考其中一门即可报考)</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">地质学类</td>
+<td align="left">物理,化学(2门科目考生选考其中一门即可报考)</td>
+<td align="left">地质学<br/>地球化学</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">地球物理学类</td>
+<td align="left">物理(1门科目考生必须选考方可报考)</td>
+<td align="left">地球物理学<br/>地理信息科学(遥感与地理信息系统)<br/>空间科学与技术(遥感与地理信息系统)</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">心理学类</td>
+<td align="left">物理(1门科目考生必须选考方可报考)</td>
+<td align="left">心理学<br/>应用心理学</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">生物科学类</td>
+<td align="left">物理,化学(2门科目考生选考其中一门即可报考)</td>
+<td align="left">生物科学<br/>生物技术</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">中国语言文学类</td>
+<td align="left">不提科目要求</td>
+<td align="left">汉语言文学(中国文学)<br/>汉语言(汉语语言学)<br/>古典文献学</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">社会学类</td>
+<td align="left">不提科目要求</td>
+<td align="left">社会学<br/>社会工作</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">哲学类</td>
+<td align="left">不提科目要求</td>
+<td align="left">哲学<br/>哲学(科技哲学与逻辑学方向)<br/>宗教学</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">理科试验班类</td>
+<td align="left">物理(1门科目考生必须选考方可报考)</td>
+<td align="left">数学类<br/>物理学类<br/>天文学<br/>电子信息类<br/>计算机类<br/>地球物理学类<br/>心理学类</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">文科试验班类</td>
+<td align="left">不提科目要求</td>
+<td align="left">信息管理与信息系统<br/>城乡规划<br/>中国语言文学类<br/>历史学类<br/>考古学<br/>社会学类<br/>哲学类<br/>国际政治<br/>经济学类<br/>工商管理类<br/>法学<br/>公共管理类<br/>新闻传播学类<br/>外国语言文学类(非通用语种)<br/>艺术史论(非通用语种)</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">历史学类</td>
+<td align="left">不提科目要求</td>
+<td align="left">历史学<br/>世界史<br/>外国语言与外国历史</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">城乡规划</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">信息管理与信息系统</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">国际政治</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">人文科学试验班</td>
+<td align="left">不提科目要求</td>
+<td align="left">艺术史论<br/>戏剧与影视学类</td>
+<tr>
+<tr bgcolor="#FFFFFF" onmouseout="this.style.background='#ffffff'" onmouseover="this.style.background='#FFFFEE'">
+<td align="center">本科</td>
+<td align="left">法学</td>
+<td align="left">不提科目要求</td>
+<td align="left"></td>
+<tr>
+</tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr></tr>
+
+
+
+
+
+
